@@ -16,8 +16,11 @@ semenov.evgenii.163@gmail.com — предпочитаемый способ св
 
 ## Обучение
 Обучался на html css php mysql базовое представление.
-Прошел обучение по Основам Java , ООП на языке Java , Git, Github
+Прошел обучение по Основам Java , ООП на языке Java , Git, Github.
 В ближайшее время изучение Алгоритмов и структура данных , Java Core , Web , Spring & Spring MVC , Spring Boot, deployment и инфраструктура , Многопоточное и функциональное программирование
+![c57d7e6d36757dde92ee3173d334964f](https://github.com/SemenSMR/Portfolio/assets/124078571/73498b07-8e85-40b1-bd73-2eb4d006d24f)
+![e60679d5b69b40655dd21af256d29ac1](https://github.com/SemenSMR/Portfolio/assets/124078571/3ccf2670-40d7-40db-bd75-0d35113f1246)
+
 Готов практиковаться
 
 ## Образование
