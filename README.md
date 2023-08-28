@@ -20,6 +20,8 @@ semenov.evgenii.163@gmail.com — предпочитаемый способ св
 В ближайшее время   Web , Spring & Spring MVC , Spring Boot, deployment и инфраструктура , Многопоточное и функциональное программирование
 ![c57d7e6d36757dde92ee3173d334964f](https://github.com/SemenSMR/Portfolio/assets/124078571/73498b07-8e85-40b1-bd73-2eb4d006d24f)
 ![e60679d5b69b40655dd21af256d29ac1](https://github.com/SemenSMR/Portfolio/assets/124078571/3ccf2670-40d7-40db-bd75-0d35113f1246)
+![8c54382d6e3df91f632f333aac1e8e5f](https://github.com/SemenSMR/Portfolio/assets/124078571/eb4b9241-8140-4c44-a039-05fb6b150e52)
+![e675f15cb769f90407a9f6907d8715e6](https://github.com/SemenSMR/Portfolio/assets/124078571/c3e80df4-453f-4d82-9d5c-1467b5c51da8)
 
 Готов практиковаться
 
