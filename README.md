@@ -27,6 +27,7 @@ semenov.evgenii.163@gmail.com — предпочитаемый способ св
 ![6ff170fbe950e72edcb1675c71354e77](https://github.com/SemenSMR/Portfolio/assets/124078571/90c33a1b-c563-4a28-bc83-43508d70e1c6)
 ![7daa485cae01cf759c22a5a507adff81](https://github.com/SemenSMR/Portfolio/assets/124078571/5d546061-83b0-4ab9-b4ce-a5e8658c372d)
 ![dc9e2c7784d3c2631ca493e7bce8e182](https://github.com/SemenSMR/Portfolio/assets/124078571/6a3d5cd4-dcd5-4a49-9785-708174d0941e)
+[certificate.pdf](https://github.com/SemenSMR/Portfolio/files/14918110/certificate.pdf)
 
 
 
