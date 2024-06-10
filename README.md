@@ -31,6 +31,9 @@ Web, Spring & Spring MVC, Spring Boot, deployment и инфраструктур�
 ![7daa485cae01cf759c22a5a507adff81](https://github.com/SemenSMR/Portfolio/assets/124078571/5d546061-83b0-4ab9-b4ce-a5e8658c372d)
 ![dc9e2c7784d3c2631ca493e7bce8e182](https://github.com/SemenSMR/Portfolio/assets/124078571/6a3d5cd4-dcd5-4a49-9785-708174d0941e)
 ![e6d59fbb141d12cb2cf613fe28fecbdd](https://github.com/SemenSMR/Portfolio/assets/124078571/83d7402f-9493-4e7c-a35b-dc402d991901)
+![58624465bb31218d75fcc45a88632299](https://github.com/SemenSMR/Portfolio/assets/124078571/c9fb023a-539e-43e7-be01-7b5114b1e4dc)
+![f062142df9343d65897f91441a6c897f](https://github.com/SemenSMR/Portfolio/assets/124078571/c29dcc05-8767-4c9e-a341-d46651599bb2)
+
 
 
 
